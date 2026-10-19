@@ -1,0 +1,9 @@
+# Credenciais e tokens — nunca comitar
+config*.json
+!config.example.json
+token*.json
+client_secret*.json
+
+# Ambiente local
+.venv/
+__pycache__/

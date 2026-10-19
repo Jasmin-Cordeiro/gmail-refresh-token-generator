@@ -1,0 +1,8 @@
+{
+  "client_id": "SEU_CLIENT_ID_AQUI",
+  "client_secret": "SEU_CLIENT_SECRET_AQUI",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "redirect_uri": "http://localhost:8080/oauth2callback",
+  "scopes": "https://www.googleapis.com/auth/gmail.modify"
+}
